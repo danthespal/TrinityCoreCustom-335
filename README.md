@@ -2,8 +2,6 @@
 # ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) TrinityCore (CustomServer)
 
 * [Introduction](#introduction)
-* [Requirements](#requirements)
-* [Install](#install)
 * [Reporting issues](#reporting-issues)
 * [Submitting fixes](#submitting-fixes)
 * [Copyright](#copyright)
@@ -12,7 +10,7 @@
 * [Custom features](#custom--features)
 
 ## Custom features
-Open manual folder to see how each mod works and his in game commands.
+Open manuals folder to see how each mod works and his in game commands.
 * NPCBot
 * Observers
 
