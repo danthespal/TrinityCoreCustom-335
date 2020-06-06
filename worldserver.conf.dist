@@ -4269,3 +4269,59 @@ NpcBot.Stats.Limits.Crit  = 95.0
 
 #
 ###################################################################################################
+
+###################################################################################################
+# OBSERVERS MOD CONFIGURATION
+#
+#    Observer.Enable
+#        Description: Allow observers.
+#        Default:     1 - (Enable)
+#                     0 - (Disable)
+
+Observers.Enable = 1
+
+#    Observers.MaxObservers
+#        Description: Maximum number of observers for each player.
+#        Default:     0 - (No maximum)
+
+Observers.MaxObservers = 0
+
+#    Observers.Dungeon
+#    Observers.Raid
+#    Observers.BG
+#    Observers.Arena
+#        Description: Map types observers are allowed in.
+#        Note:        Observers do not count towards map players limit
+#        Default:     1 - (Observers.Dungeon)
+#                     1 - (Observers.Raid)
+#                     1 - (Observers.BG)
+#                     1 - (Observers.Arena)
+
+Observers.Dungeon = 1
+Observers.Raid    = 1
+Observers.BG      = 1
+Observers.Arena   = 1
+
+#    Observers.Sneaks
+#        Description: Allow anonymous observers.
+#        Note:        Only GMs with GM mode enabled can be sneaks
+#        Note2:       Sneaks are not restricted to certain map types
+#        Default:     1 - (Enable)
+#                     0 - (Disable)
+
+Observers.Sneaks = 1
+
+#    Observers.SendPackets.Combat
+#    Observers.SendPackets.Item
+#        Description: Allow to translate observed player events to observers.
+#        Example:     If Observers.SendPackets.Combat is enbaled, observers will
+#                     receive floating combat text
+#        Note:        Enabling combat packets will mess up observers' combat log
+#        Default:     0 - (Observers.SendPackets.Combat)
+#                     1 - (Observers.SendPackets.Item)
+
+Observers.SendPackets.Combat = 0
+Observers.SendPackets.Item   = 1
+
+#
+###################################################################################################
