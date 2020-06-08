@@ -1,6 +1,7 @@
-[submodule "sql"]
-	path = sql
-	url = https://github.com/danthespal/TrinityCoreCustom-335-SQL.git
 [submodule "data"]
 	path = data
 	url = https://github.com/danthespal/TrinityCoreCustom-335-Data.git
+[submodule "sql"]
+	path = sql
+	url = https://github.com/danthespal/TrinityCoreCustom-335-SQL.git
+	branch = master
