@@ -11,6 +11,7 @@
 
 ## Custom features
 Open manuals folder to see how each mod works and in game commands.
+* ElunaLuaEngine
 * NPCBot
 * Observers
 
