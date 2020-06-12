@@ -1,5 +1,5 @@
 
-# ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) TrinityCore (CustomServer)
+# ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) [TrinityCore (CustomServer)](http://forum.ragezone.com/f436/world-warcraft-tlk-3-3-a-1178337/)
 
 * [Introduction](#introduction)
 * [Reporting issues](#reporting-issues)
